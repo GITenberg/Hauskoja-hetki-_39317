@@ -1,0 +1,40 @@
+_repo: Hauskoja-hetki-_39317
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jalava, Antti
+    birthdate: 1846
+    deathdate: 1909
+    gutenberg_agent_id: '9456'
+    url: http://www.gutenberg.org/2009/agents/9456
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berczik, Árpád
+    alias: Berczik, Arpad
+    birthdate: 1842
+    deathdate: 1919
+    gutenberg_agent_id: '39959'
+    url: http://www.gutenberg.org/2009/agents/39959
+    wikipedia: http://hu.wikipedia.org/wiki/Berczik_%C3%81rp%C3%A1d_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2012-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39317'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Árpád Berczik -- "Tyttö" -- Ilka -- Lintu laulaa! -- Surkea unkarilainen
+  -- Komisioni -- Valkoiset ketut -- Lainanpyytäjät -- Erään parran historia -- Piippu
+  -- Carrière! -- Orja -- Esikoispuhe -- Kahden tulen välillä -- Mitä kaunis nainen
+  maksaa? -- Nimen-unkarilaistuttaja.
+title: Hauskoja hetkiä
+url: http://www.gutenberg.org/ebooks/39317
